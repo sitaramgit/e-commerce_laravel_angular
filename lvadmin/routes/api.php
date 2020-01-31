@@ -14,3 +14,4 @@ Route::get('logout', 'API\UserController@logoutApi');
 Route::get('getAllUsers', 'API\UserController@getAllUsers');
 
 });
+ 
